@@ -9,7 +9,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
 /**
- * Copies the model of UAA's JWT token
+ * Copies the model of UAA's JWT token-1
  * 
  * @author wtran@pivotal.io
  *
